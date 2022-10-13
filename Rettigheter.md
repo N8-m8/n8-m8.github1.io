@@ -1,7 +1,7 @@
 
 layout: page
 title: "Rettigheter"
-permalink: https://n8-m8.github.io//Rettigheter
+permalink: /Rettigheter/
 
 # Rettigheter
 
