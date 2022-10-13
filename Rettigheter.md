@@ -1,7 +1,8 @@
-
+---
 layout: page
-title: "Rettigheter"
+title: Rettigheter
 permalink: /Rettigheter/
+---
 
 # Rettigheter
 
